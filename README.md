@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**PatelPrince11/PatelPrince11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on **FInSight** — an AI-powered financial analysis platform  
+🌱 I'm currently learning **Deep learning & neural networks (Andrew Ng), MLOps, and system design**  
+👯 I'm looking to collaborate on **AI/ML projects, full-stack web apps, and developer tools**  
+🤔 I'm looking for help with **MLOps, LLM integration, and scaling ML pipelines**  
+📫 How to reach me: **patelprince111104@gmail.com**  
+⚡ Fun fact: **I went from implementing OS schedulers to training XGBoost models in the same semester**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 3rd year CS @ University of Calgary — graduating December 2026  
+💼 Seeking **SWE Internship · Summer/Fall 2026**  
+🏐 I play volleyball — best way to get me off my laptop  
+🗂️ Currently building: ML pipelines, networking protocols, and a cooking game in Unreal Engine (yes, all at once)
