@@ -1,24 +1,41 @@
-# Hi there 👋
+# Hi, I'm Prince
 
-🎓 3rd year CS @ University of Calgary — graduating December 2026  
-💼 Seeking **SWE Internship · Summer/Fall 2026**  
-🏐 I play volleyball — best way to get me off my laptop  
-🗂️ Currently building: ML pipelines, networking protocols, and a cooking game in Unreal Engine (yes, all at once)
+Final-year Computer Science student at the University of Calgary (graduating December 2026). I build machine learning systems end to end: features and models, honest evaluation, and the APIs and infrastructure that serve them.
 
----
+**Looking for:** AI/ML Engineer, ML Engineer, and Applied AI new grad roles starting in 2027.
 
-🔭 I'm currently working on **FInSight** — an AI-powered financial analysis platform  
-🌱 I'm currently learning **Deep learning & neural networks (Andrew Ng), MLOps, and system design**  
-👯 I'm looking to collaborate on **AI/ML projects, full-stack web apps, and developer tools**  
-🤔 I'm looking for help with **MLOps, LLM integration, and scaling ML pipelines**  
-📫 How to reach me: **patelprince111104@gmail.com**  
-⚡ Fun fact: **I went from implementing OS schedulers to training XGBoost models in the same semester**
+## Featured projects
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patel.prince.11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/princepatel11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelprince111104@gmail.com) 
+**[FraudGraph](https://github.com/PatelPrince11/FraudGraph)**: fraud detection and investigation engine
+- XGBoost on 1.85M simulated card transactions with leakage-safe, time-split features: 0.973 PR-AUC vs. 0.137 for an amount-only baseline
+- FastAPI + PostgreSQL scoring service with SHAP explanations, verified for training-serving feature parity
+- NetworkX relationship graph for fraud rings; Docker Compose stack with GitHub Actions CI
+- `Python` `XGBoost` `FastAPI` `PostgreSQL` `NetworkX` `React` `Docker`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+**OpsPilot**: AI incident-investigation assistant
+- RAG over PostgreSQL/pgvector with source attribution, plus a tool-calling LLM agent that queries logs, deployments, and runbooks
+- Automated evaluation of retrieval quality, faithfulness, and citation accuracy; deployed on AWS
+- `Python` `LLMs` `RAG` `pgvector` `FastAPI` `AWS` `Docker`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**[BrickByByte](https://brickbybyte.vercel.app)**: real estate ML app (live)
+- XGBoost and scikit-learn models served through a FastAPI API, React/TypeScript frontend
+- Diagnosed and fixed a production train/serve skew caused by a scikit-learn version mismatch
+- `Python` `XGBoost` `scikit-learn` `FastAPI` `React` `Render` `Vercel`
+
+## Tech stack
+
+**Languages:** Python · SQL · TypeScript · Java · C/C++
+**ML & data:** XGBoost · scikit-learn · TensorFlow · pandas · NumPy · SHAP · NetworkX
+**GenAI:** LLMs · RAG · embeddings · pgvector · tool-calling agents
+**Backend:** FastAPI · Django · PostgreSQL · SQLAlchemy · REST APIs · React
+**Infra & testing:** Docker · AWS · GitHub Actions · pytest · JUnit · Linux
+
+## Currently learning
+
+Deep learning (Andrew Ng's specialization) and MLOps: model monitoring, drift detection, and retraining pipelines.
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/princepatel11) · [Email](mailto:patelprince111104@gmail.com)
+
+Off the keyboard, I play volleyball.
