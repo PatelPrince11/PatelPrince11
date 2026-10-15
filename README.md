@@ -12,10 +12,11 @@ Final-year Computer Science student at the University of Calgary (graduating Dec
 - NetworkX relationship graph for fraud rings; Docker Compose stack with GitHub Actions CI
 - `Python` `XGBoost` `FastAPI` `PostgreSQL` `NetworkX` `React` `Docker`
 
-**OpsPilot**: AI incident-investigation assistant
-- RAG over PostgreSQL/pgvector with source attribution, plus a tool-calling LLM agent that queries logs, deployments, and runbooks
-- Automated evaluation of retrieval quality, faithfulness, and citation accuracy; deployed on AWS
-- `Python` `LLMs` `RAG` `pgvector` `FastAPI` `AWS` `Docker`
+**[OpsPilot](https://github.com/PatelPrince11/opspilot)**: AI incident-investigation agent ([demo video](https://youtu.be/k9yHhlwRVRQ))
+- Hybrid RAG over PostgreSQL/pgvector with source attribution; hybrid retrieval raised MRR from 0.757 to 0.839 on 100 held-out questions (synthetic corpus)
+- LangGraph agent with 5 read-only tools (incident history, runbooks, logs, service health); a citation check failed 25.6% of first-draft claims, fixed by redraft or drop
+- Evaluation on a frozen test split; layered prompt-injection defenses cut attack success from 11/45 to 2/45; Docker Compose + Nginx on AWS EC2, run on demand
+- `Python` `LLMs` `RAG` `LangGraph` `pgvector` `FastAPI` `AWS` `Docker`
 
 **[BrickByByte](https://brickbybyte.vercel.app)**: real estate ML app (live)
 - XGBoost and scikit-learn models served through a FastAPI API, React/TypeScript frontend
@@ -32,7 +33,7 @@ Final-year Computer Science student at the University of Calgary (graduating Dec
 
 **Languages:** Python · SQL · TypeScript · Java · C/C++
 **ML & data:** XGBoost · scikit-learn · PyTorch · TensorFlow · pandas · NumPy · SHAP · NetworkX
-**GenAI:** LLMs · RAG · embeddings · pgvector · tool-calling agents
+**GenAI:** LLMs · RAG · embeddings · pgvector · LangGraph · tool-calling agents
 **Backend:** FastAPI · Django · PostgreSQL · SQLAlchemy · REST APIs · React
 **Infra & testing:** Docker · AWS · GitHub Actions · pytest · JUnit · Linux
 
