@@ -2,6 +2,8 @@
 
 Final-year Computer Science student at the University of Calgary (graduating December 2026). I build machine learning systems end to end: features and models, honest evaluation, and the APIs and infrastructure that serve them.
 
+**Portfolio:** [princepatel-portfolio.vercel.app](https://princepatel-portfolio.vercel.app) · **GitHub:** [PatelPrince11](https://github.com/PatelPrince11) · **LinkedIn:** [princepatel11](https://linkedin.com/in/princepatel11) · **Email:** [patelprince111104@gmail.com](mailto:patelprince111104@gmail.com)
+
 **Looking for:** AI/ML Engineer, ML Engineer, and Applied AI new grad roles starting in 2027.
 
 ## Featured projects
@@ -42,7 +44,5 @@ Final-year Computer Science student at the University of Calgary (graduating Dec
 Deep learning (Andrew Ng's specialization) and MLOps: model monitoring, drift detection, and retraining pipelines.
 
 ## Contact
-
-[LinkedIn](https://linkedin.com/in/princepatel11) · [Email](mailto:patelprince111104@gmail.com)
 
 Off the keyboard, I play volleyball.
